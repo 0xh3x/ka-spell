@@ -7,17 +7,17 @@ Hunspell წარმოადგენს ღია წყაროს მქ�
 რომელიც ემსახურება ენების მართლწერასა და მორფოლოგიურ ანალიზს.
 
 ის გამოიყენება ბევრ ცნობილ პროგრამულ უზრუნველყოფაში, როგორიცაა:
-* MacOSX 10.6 Snow Leopard
-* Google Chrome
-* Opera
-* Mozilla Firefox
-* Mozilla Thunderbird
-* The Bat!
-* Libre Office
-* Open Office
-* Eclipse
-* GNOME
-* KDE
+*  MacOSX 10.6 Snow Leopard
+*  Google Chrome
+*  Opera
+*  Mozilla Firefox
+*  Mozilla Thunderbird
+*  The Bat!
+*  Libre Office
+*  Open Office
+*  Eclipse
+*  GNOME
+*  KDE
 
 ჩვენი მიზანია შევიმუშაოთ მაქსიმალურად ვრცელი ლექსიკონი და ჩამოვაყალიბოთ მორფოლოგიის წესები.
 მოვესალმებით ნებისმიერი მხარდაჭერას!
