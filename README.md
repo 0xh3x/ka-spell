@@ -31,6 +31,7 @@ Hunspell წარმოადგენს ღია წყაროს მქ�
 * გიორგი მაღლაკელიზე aka DrAcid
 
 ## გამოსადეგი ბლულები
-* მორფოლოგიის წესები: [http://www.lingua.ge/morfologia.html]
-* როგორ შევქმნათ hunspell ლექსიკონი: [http://www.suares.an/index.php?page_id=25&news_id=233]
-* ქართული ენის კორპუსის შექმნის შესახებ: [http://blog.giorgijvaridze.com/71533514]
+* [მორფოლოგიის წესები] (http://www.lingua.ge/morfologia.html)
+* [როგორ შევქმნათ hunspell ლექსიკონი] (http://www.suares.an/index.php?page_id=25&news_id=233)
+* [ქართული ენის კორპუსის შექმნის შესახებ] (http://blog.giorgijvaridze.com/71533514)
+* [Markdown საწყისები] (http://daringfireball.net/projects/markdown/basics)
