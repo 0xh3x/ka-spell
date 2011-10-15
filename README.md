@@ -9,26 +9,21 @@ Hunspell წარმოადგენს ღია წყაროს მქ�
 
 ის გამოიყენება ბევრ ცნობილ პროგრამულ უზრუნველყოფაში, როგორიცაა:
 
-*  MacOSX 10.6 Snow Leopard
 *  Google Chrome
-*  Opera
 *  Mozilla Firefox
+*  Opera
 *  Mozilla Thunderbird
-*  The Bat!
 *  Libre Office
 *  Open Office
 *  Eclipse
 *  GNOME
 *  KDE
+*  MacOSX 10.6 Snow Leopard
 
 ჩვენი მიზანია შევიმუშაოთ მაქსიმალურად ვრცელი ლექსიკონი და ჩამოვაყალიბოთ მორფოლოგიის წესები.
 
 მივესალმებით ნებისმიერი მხარდაჭერას!
 
-## მონაწილეები
-* გიორგი ჯვარიძე aka 0xh3x
-* თორნიკე ზედგინიზე
-* გიორგი მაღლაკელიზე aka DrAcid
 
 ## გამოსადეგი ბმულები
 * [მორფოლოგიის წესები] (http://www.lingua.ge/morfologia.html)
