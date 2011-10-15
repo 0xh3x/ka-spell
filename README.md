@@ -27,6 +27,7 @@ Hunspell წარმოადგენს ღია წყაროს მქ�
 
 ## გამოსადეგი ბმულები
 * [მორფოლოგიის წესები] (http://www.lingua.ge/morfologia.html)
+* [Hunspell-ის ლექსიკონისა და აფიქსების ფაილის ფორმატის აღწერა] (http://manpages.ubuntu.com/manpages/dapper/man4/hunspell.4.html)
 * [როგორ შევქმნათ hunspell ლექსიკონი] (http://www.suares.an/index.php?page_id=25&news_id=233)
 * [ქართული ენის კორპუსის შექმნის შესახებ] (http://blog.giorgijvaridze.com/71533514)
 * [Markdown საწყისები (საიტისთვის)] (http://daringfireball.net/projects/markdown/basics)
