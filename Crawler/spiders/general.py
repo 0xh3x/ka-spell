@@ -41,7 +41,7 @@ class ExampleSpider(scrapy.Spider):
 
 
     def valid_word(self, word):
-        pattern = '^[ა-ზ]*$'
+        pattern = '^[ა-ჰ,\-]*$'
         return re.match(pattern, word)
     
     def save_word(self, word):
