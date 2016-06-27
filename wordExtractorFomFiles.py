@@ -9,8 +9,6 @@ def readTextFile(path):
         data = myfile.read().replace('\n', '')
         return data
 
-
-#TODO
 def extractGeorgianWords(s):
     import re
     matches = re.findall('([ხელმძღქწერტყუიოპასდფგჰჯკლზხცვბნმთშჟჩძ]*-[ქწერტყუიოპასდფგჰჯკლზხცვბნმთშჟჩძ]*)|([ხელმძღქწერტყუიოპასდფგჰჯკლზხცვბნმთშჟჩძ]*)', s, re.DOTALL)
